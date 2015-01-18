@@ -1,0 +1,31 @@
+@relation testData.arff
+
+@attribute A numeric
+@attribute B numeric
+@attribute C numeric
+@attribute D numeric
+@attribute E numeric
+@attribute F numeric
+@attribute G numeric
+@attribute H numeric
+@attribute I numeric
+@attribute J numeric
+@attribute K numeric
+@attribute L numeric
+@attribute M numeric
+@attribute N numeric
+@attribute O numeric
+@attribute P numeric
+@attribute Q numeric
+@attribute R numeric
+@attribute S numeric
+@attribute T numeric
+@attribute U numeric
+@attribute V numeric
+@attribute W numeric
+@attribute X numeric
+@attribute Y numeric
+@attribute Z numeric
+@attribute class {Jacek,Sylwia,£ukasz,Micha³,Beata,Kuba,Magda,Piotr,Marek,Anna}
+@data
+98,0,0,50,0,0,0,0,80,0,0,50,83,0,80,70,0,0,40,71,0,0,70,0,50,0,?
